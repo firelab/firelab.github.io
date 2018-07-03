@@ -3,8 +3,8 @@ title: FireLab
 subtitle:
 email: firelabmissoula@gmail.com
 description: RMRS Missoula Fire Sciences Lab Development Site
-baseurl: "/"  # the subpath of your site, e.g. /blog
-url: http://firelab.github.io
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: https://firelab.github.io/
 author:
 street_address: 5775 US Highway 10 W
 city: Missoula
