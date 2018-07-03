@@ -2,7 +2,7 @@
 layout: post
 title: WindNinja
 description: A diagnostic wind model developed for use in wildland fire modeling
-image: https://firelab.github.io/assets/images/wn-bsb.jpg
+image: http://firelab.github.io/assets/images/wn-bsb.jpg
 ---
 
 
@@ -13,3 +13,7 @@ function redirect(){
 </script>
 
 <body onload="redirect()">
+
+<body>
+<p>Redirecting!</p>
+</body>
