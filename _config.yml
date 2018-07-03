@@ -5,7 +5,7 @@ email: firelabmissoula@gmail.com
 description: RMRS Missoula Fire Sciences Lab Development Site
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: https://firelab.github.io/
-author:
+author: tfinney9
 street_address: 5775 US Highway 10 W
 city: Missoula
 state: MT
