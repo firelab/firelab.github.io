@@ -1,1 +1,35 @@
-theme: jekyll-theme-slate
+# site settings
+title: FireLab
+subtitle:
+email: firelabmissoula@gmail.com
+description: RMRS Missoula Fire Sciences Lab Development Site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://firelab.github.io/
+author:
+street_address: 5775 US Highway 10 W
+city: Missoula
+state: MT
+zip_code: 59808-9361
+country: USA
+phone:
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 3
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
