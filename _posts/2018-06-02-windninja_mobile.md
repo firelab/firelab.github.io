@@ -1,7 +1,8 @@
 ---
 layout: post
 title: WindNinja-Mobile
-description: Mobile application for WindNinja 
+description: Mobile application for WindNinja
+image: https://firelab.github.io/assets/images/filler-1.jpg
 ---
 
 
