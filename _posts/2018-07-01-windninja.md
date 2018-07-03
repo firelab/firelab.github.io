@@ -2,7 +2,7 @@
 layout: post
 title: WindNinja
 description: A diagnostic wind model developed for use in wildland fire modeling
-image: http://firelab.github.io/assets/images/wn-bsb.jpg
+image: assets/images/wn-bsb.jpg
 ---
 
 
